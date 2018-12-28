@@ -1,0 +1,194 @@
+Pathway	Protein	Gene_name	Definition
+Eeleoctron transport	PsbA	Os04g0473150	 Similar to photosystem II protein D1
+Eeleoctron transport	PsbE	Os03g0659233	Cytochrome b559 subunit alpha
+Eeleoctron transport	PsbF	Os03g0659266	Cytochrome b559 subunit beta
+Eeleoctron transport	PsbI	Os08g0433350	Similar to photosystem II protein I
+Eeleoctron transport	PsbK	Os11g0592350	Photosystem II reaction center protein K
+Eeleoctron transport	PsbL	Os03g0667201	Photosystem II reaction center protein L
+Eeleoctron transport	PsbO	Os01g0501800	Similar to Photosystem II oxygen-evolving complex protein 1 (Fragment)
+Eeleoctron transport	PsbP	Os07g0141400	Similar to 23 kDa polypeptide of photosystem II
+Eeleoctron transport	PsbP	Os08g0347500	"Similar to PsbP family protein, expressed"
+Eeleoctron transport	PsbP	Os10g0461100	"Similar to Keratin, type II cytoskeletal 1 (Cytokeratin 1) (K1) (CK 1) (67 kDa cytokeratin) (Hair alpha protein)"
+Eeleoctron transport	PsbP	Os10g0461400	"Similar to PsbP family protein, expressed"
+Eeleoctron transport	PsbQ	Os02g0578400	Photosystem II oxygen evolving complex protein PsbQ family protein
+Eeleoctron transport	PsbQ	Os07g0105600	Photosystem II oxygen evolving complex protein PsbQ family protein
+Eeleoctron transport	PsbQ	Os07g0544800	"Similar to Oxygen-evolving enhancer protein 3-2, chloroplast precursor (OEE3) (16 kDa subunit of oxygen evolving system of photosystem II) (OEC 16 kDa subunit) (Ferredoxin-NADP reductase binding protein) (BP)"
+Eeleoctron transport	PsbR	Os07g0147500	"Similar to Photosystem II 10 kDa polypeptide, chloroplast precursor"
+Eeleoctron transport	PsbR	Os07g0147550	"Similar to Photosystem II 10 kDa polypeptide, chloroplast"
+Eeleoctron transport	PsbR	Os08g0200300	Similar to Photosystem II 10 kDa polypeptide (Fragment)
+Eeleoctron transport	PsbS	Os01g0869800	Similar to Photosystem II subunit PsbS
+Eeleoctron transport	PsbS	Os04g0690800	22 kDa protein of photosystem II
+Eeleoctron transport	PsbW	Os01g0773700	Similar to Photosystem II reaction center W protein (PSII 6.1 kDa protein) (Fragment)
+Eeleoctron transport	PSbY	Os08g0119800	"Similar to Photosystem II core complex proteins psbY, chloroplast precursor (L- arginine metabolising enzyme) (L-AME) [Contains: Photosystem II protein psbY-1 (psbY-A1); Photosystem II protein psbY-2 (psbY-A2)]"
+Eeleoctron transport	PsbZ	Os12g0504050	Similar to Photosystem II reaction center protein Z
+Eeleoctron transport	Psb27	Os03g0333400	Similar to photosystem II 11 kD protein
+Eeleoctron transport	Psb28	Os01g0938100	"hotosystem II protein Psb28, class 1 domain containing protein"
+Eeleoctron transport	PsaC	Os09g0485201	Similar to photosystem I subunit VII
+Eeleoctron transport	PsaD	Os08g0560900	"Similar to Photosystem I reaction center subunit II, chloroplast precursor (Photosystem I 20 kDa subunit) (PSI-D)"
+Eeleoctron transport	PsaE	Os07g0435300	"Photosystem I reaction center subunit IV, chloroplast precursor (PSI- E) (Photosystem I 10.8 kDa polypeptide)"
+Eeleoctron transport	PsaF	Os03g0778100	Similar to Photosystem-1 F subunit
+Eeleoctron transport	PsaG	Os09g0481200	Similar to photosystem I reaction center subunit V
+Eeleoctron transport	PsaH	Os05g0560000	"Photosystem I reaction center subunit VI, chloroplast precursor (PSI- H) (Light-harvesting complex I 11 kDa protein) (GOS5 protein)"
+Eeleoctron transport	PsaJ	Os04g0519975	Similar to photosystem I subunit IX
+Eeleoctron transport	PsaK	Os07g0148900	Photosystem I protein-like protein
+Eeleoctron transport	PsaL	Os12g0420400	"Similar to Photosystem I reaction center subunit XI, chloroplast precursor (PSI- L) (PSI subunit V)"
+Eeleoctron transport	PsaN	Os12g0189400	"Similar to Photosystem I reaction centre subunit N, chloroplast precursor (PSI- N)"
+Eeleoctron transport	PsaO	Os04g0414700	Photosystem I PsaO domain containing protein
+Eeleoctron transport	PetH	Os02g0103800	Similar to Ferredoxin--NADP reductase
+Eeleoctron transport	PetH	Os03g0784700	"Ferredoxin--NADP reductase, root isozyme, chloroplast precursor (EC 1.18.1.2) (FNR)"
+Eeleoctron transport	PetH	Os06g0107700	"Ferredoxin--NADP reductase, leaf isozyme, chloroplast precursor (EC 1.18.1.2) (FNR)"
+Eeleoctron transport	PetH	Os07g0147900	Similar to Ferredoxin-NADP reductase precursor (Fragment)
+Eeleoctron transport	PetC	Os07g0556200	Rieske [2Fe-2S] region domain containing protein
+Eeleoctron transport	PetE	Os06g0101600	"Plastocyanin, chloroplast precursor"
+Eeleoctron transport	PetF	Os01g0860601	"Similar to Ferredoxin, root R-B1"
+Eeleoctron transport	PetF	Os03g0659200	Similar to Ferredoxin
+Eeleoctron transport	PetF	Os03g0685000	Similar to Ferredoxin
+Eeleoctron transport	PetF	Os03g0835900	"Similar to Ferredoxin III, chloroplast precursor (Fd III)"
+Eeleoctron transport	PetF	Os04g0412200	Similar to Ferredoxin I
+Eeleoctron transport	PetF	Os05g0443500	"Similar to Ferredoxin VI, chloroplast precursor (Fd VI)"
+Eeleoctron transport	PetF	Os07g0251500	Similar to ferredoxin3
+Eeleoctron transport	PetF	Os08g0104600	"Ferredoxin I, chloroplast precursor (Anti-disease protein 1)"
+Eeleoctron transport	beta	Os06g0120732	Similar to ATP synthase subunit beta (Fragment)
+Eeleoctron transport	beta	Os10g0355800	Similar to ATP synthase CF1 beta subunit
+Eeleoctron transport	beta	Os12g0207500	Similar to ATP synthase subunit beta
+Eeleoctron transport	gamma	Os07g0513000	"Similar to ATP synthase gamma chain, chloroplast (EC 3.6.1.34) (Fragment)"
+Eeleoctron transport	delta	Os02g0750100	Similar to ATP synthase
+Eeleoctron transport	b	Os03g0278900	"ATPase, F0 complex, subunit B/B', bacterial and chloroplast family protein"
+Antenna	Lhca1	Os06g0320500	Similar to Light-harvesting complex I (Fragment).
+Antenna	Lhca2	Os07g0577600	Similar to Type II chlorophyll a/b binding protein from photosystem I precursor.
+Antenna	Lhca2	Os09g0439500	Similar to Type II chlorophyll a/b binding protein from photosystem I precursor.
+Antenna	Lhca3	Os02g0197600	Chlorophyll a/b-binding protein type III (Fragment).
+Antenna	Lhca4	Os08g0435900	Similar to LHC I type IV chlorophyll binding protein (Fragment).
+Antenna	Lhca5	Os02g0764500	Similar to Lhca5 protein.
+Antenna	Lhcb1	Os01g0600900	"Chlorophyll a-b binding protein 2, chloroplast precursor (LHCII type I CAB-2) (LHCP)."
+Antenna	Lhcb1	Os01g0720500	Similar to Type I chlorophyll a/b-binding protein b (Fragment).
+Antenna	Lhcb1	Os09g0346500	"Similar to Chlorophyll a-b binding protein, chloroplast precursor (LHCII type I CAB) (LHCP)."
+Antenna	Lhcb2	Os03g0592500	Similar to Photosystem II type II chlorophyll a/b binding protein (Fragment).
+Antenna	Lhcb3	Os07g0562700	Similar to Type III chlorophyll a/b-binding protein (Fragment).
+Antenna	Lhcb4	Os07g0558400	Similar to Chlorophyll a/b-binding protein CP29 precursor.
+Antenna	Lhcb5	Os11g0242800	Similar to ASCAB9-A (ASCAB9-B) (Fragment).
+Antenna	Lhcb6	Os04g0457000	"Similar to Chlorophyll a/b-binding protein CP24, photosystem II (Fragment)."
+Antenna	Lhcb7	Os09g0296800	Chlorophyll A-B binding protein family protein.
+Carbox fixation		Os01g0118000	Similar to Fructose-bisphosphate aldolase (EC 4.1.2.13) (Fragment)
+Carbox fixation		Os01g0905800	Aldolase C-1.
+Carbox fixation		Os05g0402700	"Similar to Fructose-bisphosphate aldolase, cytoplasmic isozyme (EC 4.1.2.13)"
+Carbox fixation		Os06g0608700	"Similar to Fructose-bisphosphate aldolase, cytoplasmic isozyme (EC 4.1.2.13)."
+Carbox fixation		Os08g0120600	"Similar to Fructose-bisphosphate aldolase, cytoplasmic isozyme (EC 4.1.2.13)"
+Carbox fixation		Os10g0163340	Similar to Cytosolic aldolase.
+Carbox fixation		Os11g0171300	"Fructose-bisphosphate aldolase, chloroplast precursor (EC 4.1.2.13) (ALDP)."
+Carbox fixation		Os12g0169600	Similar to Fructose-bisphosphate aldolase.
+Carbox fixation		Os04g0234600	"Similar to Sedoheptulose-1,7-bisphosphatase."
+Carbox fixation		Os04g0266900	Transketolase C-terminal-like domain containing protein.
+Carbox fixation		Os06g0133800	Similar to Transferase.
+Carbox fixation		Os03g0781400	Ribose 5-phosphate isomerase family protein.
+Carbox fixation		Os04g0306400	Ribose 5-phosphate isomerase family protein.
+Carbox fixation		Os07g0176900	Similar to Ribose-5-phosphate isomerase precursor (EC 5.3.1.6).
+Carbox fixation		Os02g0698000	"Similar to Phosphoribulokinase, chloroplast precursor (EC 2.7.1.19) (Phosphopentokinase) (PRKase) (PRK)."
+Carbox fixation		Os04g0596900	Phosphoribulokinase/uridine kinase family protein.
+Carbox fixation		Os03g0169100	"Ribulose-phosphate 3-epimerase, chloroplast precursor (EC 5.1.3.1) (Pentose-5-phosphate 3-epimerase) (PPE) (RPE) (R5P3E)."
+Carbox fixation		Os09g0505700	Aldolase-type TIM barrel domain containing protein.
+Carbox fixation		Os01g0866400	"Similar to Fructose-1,6-bisphosphatase (EC 3.1.3.11) (Fragment)."
+Carbox fixation		Os03g0267300	"Similar to Fructose-1,6-bisphosphatase, chloroplast precursor (EC 3.1.3.11) (D- fructose-1,6-bisphosphate 1-phosphohydrolase) (FBPase)."
+Carbox fixation		Os05g0438600	"Fructose-1,6-bisphosphatase class 1/Sedoheputulose-1,7-bisphosphatase domain containing protein."
+Carbox fixation		Os06g0664200	"Inositol monophosphatase/Fructose-1,6-bisphosphatase domain containing protein."
+Carbox fixation	TPI	Os01g0147900	"Triosephosphate isomerase, cytosolic (EC 5.3.1.1) (TIM) (Triose- phosphate isomerase)."
+Carbox fixation		Os01g0841600	"Similar to Triosephosphate isomerase, cytosolic (EC 5.3.1.1) (TIM) (Triose- phosphate isomerase)."
+Carbox fixation		Os03g0129300	Similar to Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13) (Fragment).
+Carbox fixation		Os01g0800266	Similar to Phosphoglycerate kinase.
+Carbox fixation		Os02g0169300	"Similar to Phosphoglycerate kinase, cytosolic (EC 2.7.2.3)."
+Carbox fixation		Os05g0496200	Similar to 3-phosphoglycerate kinase (Fragment).
+Carbox fixation		Os06g0668200	"Similar to Phosphoglycerate kinase, cytosolic (EC 2.7.2.3)."
+Carbox fixation		Os01g0791033	"Similar to ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit."
+Carbox fixation		Os01g0899425	"Similar to ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit."
+Carbox fixation		Os02g0152400	Similar to Ribulose bisphosphate carboxylase (EC 4.1.1.39) (Fragment).
+Carbox fixation		Os05g0427800	Similar to Ribulose bisphosphate carboxylase large chain.
+Carbox fixation		Os10g0356000	"Similar to ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit."
+Carbox fixation		Os12g0207600	"Similar to ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit."
+Carbox fixation	RBCS	Os12g0274700	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Carbox fixation		Os12g0291100	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Carbox fixation		Os12g0291200	Similar to Ribulose bisphosphate carboxylase small chain.
+Carbox fixation		Os12g0291400	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Carbox fixation		Os12g0292400	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Carbox fixation	PPDK	Os05g0405000	Orthophosphate dikinase precursor (EC 2.7.9.1).
+Carbox fixation		Os01g0110700	Similar to Phosphoenolpyruvate carboxylase (EC 4.1.1.31).
+Carbox fixation		Os01g0208700	Similar to Phosphoenolpyruvate carboxylase (Fragment).
+Carbox fixation		Os01g0758300	"Similar to Phosphoenolpyruvate carboxylase, housekeeping isozyme (EC 4.1.1.31) (PEPCase)."
+Carbox fixation		Os02g0244700	Similar to Phosphoenolpyruvate carboxylase 1 (EC 4.1.1.31) (PEPCase 1) (CP21).
+Carbox fixation		Os08g0366000	Phosphoenolpyruvate carboxylase.
+Carbox fixation		Os09g0315700	Phosphoenolpyruvate carboxylase family protein.
+Carbox fixation		Os01g0649100	Malate dehydrogenase.
+Carbox fixation		Os01g0829800	Similar to Malate dehydrogenase precursor (EC 1.1.1.37).
+Carbox fixation		Os03g0773800	"Similar to Malate dehydrogenase, glyoxysomal precursor (EC 1.1.1.37) (mbNAD-MDH)."
+Carbox fixation		Os04g0551200	Similar to Cytoplasmic malate dehydrogenase.
+Carbox fixation		Os05g0574400	Similar to Malate dehydrogenase.
+Carbox fixation		Os07g0630800	Similar to Nodule-enhanced malate dehydrogenase.
+Carbox fixation		Os08g0434300	Similar to Malate dehydrogenase precursor (EC 1.1.1.37).
+Carbox fixation		Os10g0478200	Cytoplasmic malate dehydrogenase.
+Carbox fixation		Os12g0632700	"Malate dehydrogenase, glyoxysomal precursor (EC 1.1.1.37)."
+Carbox fixation		Os02g0171100	Similar to Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (GAPDH).
+Carbox fixation		Os02g0601300	"Similar to Glyceraldehyde-3-phosphate dehydrogenase, cytosolic 3 (EC 1.2.1.12)."
+Carbox fixation		Os04g0486600	"Similar to Glyceraldehyde-3-phosphate dehydrogenase, cytosolic 3 (EC 1.2.1.12)."
+Carbox fixation		Os06g0666600	"Similar to Glyceraldehyde-3-phosphate dehydrogenase, cytosolic 3 (EC 1.2.1.12)."
+Carbox fixation	GAPC	Os08g0126300	Similar to Glyceraldehyde-3-phosphate dehydrogenase (Fragment).
+Carbox fixation		Os01g0760600	"Aspartate aminotransferase, cytoplasmic (EC 2.6.1.1) (Transaminase A)."
+Carbox fixation		Os03g0183600	Similar to Alanine aminotransferase.
+Carbox fixation		Os07g0108300	Similar to Alanine aminotransferase.
+Carbox fixation		Os07g0617800	Similar to Alanine aminotransferase.
+Carbox fixation		Os09g0433900	Similar to Alanine aminotransferase 2 (EC 2.6.1.2) (GPT) (Glutamic--pyruvic transaminase 2) (Glutamic--alanine transaminase 2) (ALAAT-2).
+Carbox fixation		Os10g0390500	Similar to Alanine aminotransferase.
+Carbox fixation		Os10g0390600	Similar to Alanine aminotransferase 2 (EC 2.6.1.2) (GPT) (Glutamic--pyruvic transaminase 2) (Glutamic--alanine transaminase 2) (ALAAT-2).
+Carbox fixation		Os08g0562100	Similar to Sorghum chloroplast CM3 malate dehydrogenase (NADP) (Fragment).
+Carbox fixation		Os01g0188400	"NADP-dependent malic enzyme, chloroplast precursor (EC 1.1.1.40) (NADP-ME)."
+Carbox fixation		Os01g0723400	Malic oxidoreductase family protein.
+Carbox fixation		Os01g0743500	Cytosolic NADP malic enzyme.
+Carbox fixation		Os02g0665000	Similar to Malic enzyme.
+Carbox fixation		Os05g0186300	Similar to NADP-malic enzyme.
+Carbox fixation		Os07g0496200	"Similar to NAD-dependent malic enzyme 62 kDa isoform, mitochondrial precursor (EC 1.1.1.39) (NAD-ME)."
+Carbox fixation		Os10g0503500	"Similar to NAD-dependent malic enzyme 59 kDa isoform, mitochondrial precursor (EC 1.1.1.39) (NAD-ME)."
+Carbox fixation		Os03g0255500	Similar to Phosphoenolpyruvate carboxykinase 4 (EC 4.1.1.49) (Fragment).
+Carbox fixation		Os10g0204400	Similar to Phosphoenolpyruvate carboxykinase (Fragment).
+Photorespiration		Os01g0791033	"Similar to ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit."
+Photorespiration		Os01g0899425	"Similar to ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit."
+Photorespiration		Os05g0427800	Similar to Ribulose bisphosphate carboxylase large chain.
+Photorespiration		Os10g0356000	"Similar to ribulose-1,5-bisphosphate "
+Photorespiration		Os12g0207600	"Similar to ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit."
+Photorespiration		Os02g0152400	Similar to Ribulose bisphosphate carboxylase (EC 4.1.1.39) (Fragment).
+Photorespiration	RBCS	Os12g0274700	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Photorespiration		Os12g0291100	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Photorespiration		Os12g0291200	Similar to Ribulose bisphosphate carboxylase small chain.
+Photorespiration		Os12g0291400	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Photorespiration		Os12g0292400	"Similar to Petunia ribulose 1,5-bisphosphate carboxylase small subunit mRNA (clone pSSU 51), partial cds. (Fragment)."
+Photorespiration		Os04g0490800	Haloacid dehalogenase-like hydrolase domain containing protein.
+Photorespiration		Os09g0261300	Similar to 4-nitrophenylphosphatase-like protein.
+Photorespiration		Os03g0786100	Similar to Glycolate oxidase (EC 1.1.3.15) (Fragment).
+Photorespiration		Os04g0623500	Similar to H0215F08.7 protein.
+Photorespiration		Os07g0152900	Similar to Glycolate oxidase (EC 1.1.3.15) (Fragment).
+Photorespiration		Os07g0616500	"Similar to (S)-2-hydroxy-acid oxidase, peroxisomal (EC 1.1.3.15) (Glycolate oxidase) (GOX) (Short chain alpha-hydroxy acid oxidase)."
+Photorespiration	CATA	Os02g0115700	Catalase isozyme A (EC 1.11.1.6) (CAT-A).
+Photorespiration	CATC	Os03g0131200	Similar to Catalase isozyme 2 (EC 1.11.1.6).
+Photorespiration	CATB	Os06g0727200	Catalase isozyme B (EC 1.11.1.6) (CAT-B).
+Photorespiration		Os07g0108300	Similar to Alanine aminotransferase.
+Photorespiration		Os01g0874900	Similar to Hydroxymethyltransferase.
+Photorespiration		Os03g0738400	"Similar to Serine hydroxymethyltransferase, cytosolic (EC 2.1.2.1) (Serine methylase) (Glycine hydroxymethyltransferase) (SHMT)."
+Photorespiration		Os05g0429000	Similar to Hydroxymethyltransferase.
+Photorespiration		Os11g0455800	Similar to Serine hydroxymethyltransferase.
+Photorespiration		Os12g0409000	Similar to Serine hydroxymethyltransferase.
+Photorespiration		Os08g0502700	"Pyridoxal phosphate-dependent transferase, major region, subdomain 1 domain containing protein."
+Photorespiration		Os02g0101500	Similar to NADH-dependent hydroxypyruvate reductase (EC 1.1.1.29) (Fragment).
+Photorespiration		Os01g0228600	Similar to 2-hydroxyacid dehydrogenase (AGR_L_379p).
+Photorespiration		Os04g0106400	NAD(P)-binding domain containing protein.
+Photorespiration		Os04g0107200	NAD(P)-binding domain containing protein.
+Photorespiration		Os04g0107300	NAD(P)-binding domain containing protein.
+Photorespiration		Os04g0107500	NAD(P)-binding domain containing protein.
+Photorespiration		Os01g0682500	Similar to Protein Kinase C630.09c.
+Photorespiration		Os01g0711400	Similar to Victorin binding protein.
+Photorespiration		Os06g0611900	Similar to Glycine decarboxylase P subunit.
+Photorespiration		Os04g0623800	"Similar to Aminomethyltransferase, mitochondrial precursor (EC 2.1.2.10) (Glycine cleavage system T protein) (GCVT)."
+Photorespiration		Os01g0328700	FAD-dependent pyridine nucleotide-disulphide oxidoreductase domain containing protein.
+Photorespiration		Os01g0337900	Similar to Dihydrolipoamide dehydrogenase.
+Photorespiration		Os05g0156700	Similar to Dihydrolipoyl dehydrogenase.
+Photorespiration		Os05g0160000	Similar to Ferric leghemoglobin reductase.
+Photorespiration		Os02g0169700	Glycine cleavage H-protein family protein.
+Photorespiration		Os02g0170100	Glycine cleavage H-protein family protein.
+Photorespiration		Os06g0667600	Similar to Glycine decarboxylase complex H-protein.
+Photorespiration		Os10g0516100	"Similar to Glycine cleavage system H protein, mitochondrial precursor."
